@@ -4,7 +4,7 @@
 *INTERN ID - CT06DF1885
 *DOMAIN - DATA SCIENCE
 *DURATION - 6 WEEK
-*MENTOR - NEEL SANTOSH
+*MENTOR - NEELA SANTHOSH
 # Description
 Optimization is a critical component of decision-making in business, operations, finance, logistics, and engineering. In Task 4 of the CodTech Data Science Internship, the goal is to solve a business problem using optimization techniques like Linear Programming (LP), and implement the solution using Python libraries such as PuLP. This task enables interns to understand how mathematical modeling can be applied to find the best possible solution under a given set of constraints.
 Optimization problems revolve around maximizing or minimizing a specific objective—such as profit, efficiency, or cost—subject to certain conditions or constraints. Real-world examples include minimizing transportation costs, maximizing production output within resource limits, or determining the best investment portfolio.
