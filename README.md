@@ -19,4 +19,4 @@ Interpret the results – read variable values and the optimal value of the obje
 For example, in a simple diet problem, you might have two food items—rice and beans. Each has a cost per unit and provides certain calories and protein. The aim is to find the quantity of rice and beans to consume that meets the minimum nutritional requirement at the lowest cost. After defining the problem in PuLP, the script will compute the optimal quantities and the minimum cost.
 The final part of the task involves explaining the insights from the solution. This means interpreting what the results imply for the business. For instance, if an optimization model suggests using more beans than rice, it might mean beans are a more cost-effective source of nutrition.
 By completing this task, interns gain exposure to operations research and mathematical optimization, a field that underpins many AI and decision-making systems. They also develop the ability to transform abstract business challenges into formal mathematical problems and solve them using Python—a valuable skill in supply chain management, project planning, finance, and more.
-# OUTPUT
+
